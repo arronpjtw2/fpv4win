@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    "ffmpeg",
+    "fmt",
+    "libpcap",
+    "libsodium",
+    "libusb",
+    "sdl2",
+    "vcpkg-tool-ninja",
+    "qt5"
+  ]
+}
